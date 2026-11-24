@@ -1,0 +1,17 @@
+# Local datasets and archive
+Dataset/
+Dataset-*.zip
+
+# Encrypted course PDF (keep local only)
+Tài liệu LAB2.pdf
+
+# Local Word reports and Office lock files
+6451071033_LAB2_N2.docx
+6451071033_LAB1_N2.docx
+*.docx
+~$*
+
+# Jupyter / Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.tmp
